@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[hello]]></title>
-    <url>%2F2017%2F08%2F02%2Fhello%2F</url>
-    <content type="text"><![CDATA[你好，欢迎来到我的博客。]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F08%2F02%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hello]]></title>
+    <url>%2F2016%2F08%2F02%2Fhello%2F</url>
+    <content type="text"><![CDATA[你好，欢迎来到我的博客。 blah blah blah blah blah blah blah blah blah 这是一个段落这是第二个段落 这是第三个段落 代码区 int main(){ for(int i=0;i&lt;100;i++){ scanf();} printf(&quot;%d\n&quot;,a); return 0; } 引用： 无产阶级革命 Red Green Blue Bird McHale Parish 网易 http://163.com/]]></content>
+      <categories>
+        <category>杂例</category>
+      </categories>
+      <tags>
+        <tag>博客调试</tag>
+      </tags>
   </entry>
 </search>
